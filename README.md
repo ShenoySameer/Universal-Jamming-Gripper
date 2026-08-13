@@ -1,8 +1,8 @@
 # Universal-Jamming-Gripper
 A custom modeled, 3D-printed 4-axis robotic arm with a pneumatic universal jamming gripper. Controlled using an ESP32 micro-controller and any generic video game controller, this project combines mechanical design, power electronics, embedded control, and soft robotics to adaptively pick and place irregular objects.
 
+<img width="300" height="225" alt="Jamming-Gripper-Demo" src="https://github.com/user-attachments/assets/c07f4834-d918-417e-b082-65bfff9ae45c" />
 
-<img width="400" height="225" alt="jamming-gripper" src="https://github.com/user-attachments/assets/3245c3b4-642c-47e7-9cb0-bf2d0c1dd922" />
 
 ## Components & Specifications
 
@@ -29,7 +29,7 @@ A custom modeled, 3D-printed 4-axis robotic arm with a pneumatic universal jammi
                         │ Nintendo Switch Controller   │
                         └──────────────┬───────────────┘
                                        │
-                                       ▼ (Bluetooth)
+                                       ▼ 
                         ┌──────────────────────────────┐
                         │      ESP32 Controller        │
                         └──────┬────────────────┬──────┘
