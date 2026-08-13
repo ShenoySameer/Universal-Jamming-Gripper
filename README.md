@@ -19,6 +19,7 @@ A custom modeled, 3D-printed 4-axis robotic arm with a pneumatic universal jammi
 | **Power Supply 2** | 12V DC Power Adapter | Dedicated supply for high-current pneumatic pump and solenoid actuation. |
 | **Teleoperation Input** | Nintendo Switch Controller | Wired input controller mapped for real-time Cartesian/joint control. |
 | **Fasteners** | M3 Hardware + Brass Inserts | Socket-head machine screws paired with thermal heat-set brass inserts. |
+| **Latex Membrane** | Basic party balloon | filled with coffee grounds to act as the gripper |
 
 ---
 
