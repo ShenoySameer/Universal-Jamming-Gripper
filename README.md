@@ -24,6 +24,7 @@ To access the full DEMO: https://drive.google.com/file/d/1VVH4_Hc1vpUiFQFAnJGJaW
 | **Latex Membrane** | Basic party balloon | filled with coffee grounds to act as the gripper |
 
 ---
+<img width="800" height="538" alt="Robot_Arm_Collapse_GIF" src="https://github.com/user-attachments/assets/15ed0ee8-4e8e-4866-af06-faacee06d352" />
 
 ## System Architecture
 
